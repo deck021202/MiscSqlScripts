@@ -1,0 +1,2 @@
+# MiscSqlScripts
+Handy SQL Scripts
